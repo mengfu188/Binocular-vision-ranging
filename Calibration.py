@@ -2,6 +2,7 @@
 import cv2
 import numpy as np
 import glob
+xrange=range
 
 
 # 模块说明：相机标定模块
